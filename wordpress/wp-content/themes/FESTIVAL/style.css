@@ -1,0 +1,141 @@
+/*
+Theme Name: Festival
+Theme URI: http://example.com/
+Description: Thème enfant du thème Twenty Twelve
+Author: Amri
+Author URI: http://example.com/about/
+Template: twentytwelve
+Version: 0.1.0
+*/
+@import url("../twentytwelve/style.css");
+body{
+	background-color: #ff0000 ;
+	text-align: justify;
+}
+
+#menu-festival {margin: auto; !important;
+	text-align : center;
+	padding: -20px;
+	border: none !important;
+	text-shadow: 1px 1px 1px #000000;
+	background-image: url(http://localhost/wordpress/wp-content/uploads/2013/01/arc.jpg);
+	border-radius: 10px;
+	opacity: 0.7;
+	}
+
+.menu1 a:hover {background : #FFC0CB !important;
+	border-radius: 5px;
+	color: white !important;
+	text-align : center;
+	width: 110px;
+	opacity: 1 !important;
+	}
+.menu1 a {
+	color: #FF8787 !important;
+	text-align : center;
+	width: 110px;
+	}
+.menu2 a:hover {background : #008000!important;
+	border-radius: 5px;
+	color: white !important; 
+	text-align : center;
+	width: 110px;
+	opacity: 1 !important;
+	}
+.menu2 a {
+	color: #ff0000 !important; 
+	text-align : center;
+	width: 110px;
+	}
+.menu3 a:hover {background : #E6F911 !important;
+	border-radius: 5px;
+	color: white !important;
+	text-align : center;
+	width: 110px;
+	opacity: 1 !important;
+	}
+.menu3 a {
+	color: #FFA500 !important; 
+	text-align : center;
+	width: 110px;
+	}
+.menu4 a:hover {background : #FFA500 !important;
+	border-radius: 5px;
+	color: white !important;
+	text-align : center;
+	width: 110px;
+	opacity: 1 !important;
+	}
+.menu4 a {
+	color: #E6F911!important; 
+	text-align : center;
+	width: 110px;
+	}
+.menu5 a:hover {background : #ff0000 !important;
+	border-radius: 5px;
+	color: white !important;
+	text-align : center;
+	width: 110px;
+	opacity: 1 !important;
+	}
+.menu5 a {
+	color: #008000 !important; 
+	text-align : center;
+	width: 110px;
+	}
+.menu6 a:hover {background : #FF8787 !important;
+	border-radius: 5px;
+	color: white !important;
+	text-align : center;
+	width: 110px;
+	opacity: 1 !important;
+	}
+.menu6 a {
+	color: #FFC0CB !important; 
+	text-align : center;
+	width: 110px;
+	}
+li.menu1.current-menu-item a{
+	background-color: #FFC0CB !important;
+	border-radius: 10px;
+	opacity: 1 !important;
+}
+li.menu2.current-menu-item a{
+	background-color: #008000 !important;
+	border-radius: 10px;
+	opacity: 1 !important;
+}
+li.menu3.current-menu-item a{
+	background-color: #E6F911!important;
+	border-radius: 10px;
+	opacity: 1 !important;
+}
+li.menu4.current-menu-item a{
+	background-color: #FFA500 !important;
+	border-radius: 10px;
+	opacity: 1 !important;
+}
+li.menu5.current-menu-item a{
+	background-color: #ff0000 !important;
+	border-radius: 10px;
+	opacity: 1 !important;
+}
+li.menu6.current-menu-item a{
+	background-color: #FF8787 !important;
+	border-radius: 10px;
+	opacity: 1 !important;
+}
+.font-rouge {color: red !important; }
+#programme {background-color : #E5E5E5 ! important; 
+	padding : 5px; 
+	border-radius: 20px;}
+#page {border-radius: 20px;}
+
+.champs-persos{
+	background-color : #E5E5E5 ! important; 
+	padding : 5px; 
+	border-radius: 10px;
+	}
+.champs-persos i {
+	color: orange !important;
+}

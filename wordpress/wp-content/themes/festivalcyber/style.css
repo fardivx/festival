@@ -1,0 +1,41 @@
+/*
+Theme Name:     festivalcyber
+Theme URI:      http: //example.com/
+Description:    Thème enfant du thème Twenty Twelve 
+Author:         Ayrole
+Author URI:     http: //example.com/about/
+Template:       cyberchimps
+Version:        0.1.0
+*/
+
+@import url("../cyberchimps/style.css");
+#programme{
+	font-size : 0.8em !important;
+}
+
+.menu1 {
+	background-color:pink;
+}
+
+.menu2 {
+	background-color:red;
+}
+
+.menu3 {
+	background-color:orange;
+}
+
+.menu4 {
+	background-color:yellow;
+}
+
+.menu5 {
+	background-color:green;
+}
+
+.menu6 {
+	background-color:#51D9FF;
+}
+.navbar-inner{
+	background-color:#CC37BF;
+}
